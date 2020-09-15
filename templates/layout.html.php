@@ -59,7 +59,7 @@
 			<hr>
 			<p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
 			<p>Or If you prefer Gmail: <a href="mailto:mddilshadul98@gmail.com">mddilshadul98@gmail.com</a></p>
-			<p>এম ডিস্ প্রোগ্রামিং ব্লগ । <?php echo date('d-m-y') ?></p>
+			<p>এমডির প্রোগ্রামিং জগৎ।<?php echo date('d-m-y') ?></p>
 		</footer>
 	</body>
 </html>
