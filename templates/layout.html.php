@@ -11,7 +11,7 @@
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:grey;font-size: 1.2em;font-weight: bold">
 		<header>
-			<h1 style="background-color:grey;font-size: 3em;color:white;padding:3%;">MD's Programmering Diary.<sub style="font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</sub></h1>
+			<h1 style="background-color:grey;font-size: 3em;color:white;padding:3%;">MD's Programmering World.<sub style="font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</sub></h1>
 		</header>
 		<main class="container">
 			<div class = "row">
