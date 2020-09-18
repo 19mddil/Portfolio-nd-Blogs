@@ -23,6 +23,7 @@
 				</section>
 				<aside class = "col-md-1 two" style="position:sticky; position: -webkit-sticky; top: 0;">
 					<h1 style="font-size: 2em;padding: .5%;">Diaries</h1>
+					<!-- Bug -->
 					<hr>
 					<nav style=" letter-spacing: .15em;">
 						<a href="index.php" style=" text-decoration: underline;">Home</a><br><br>
