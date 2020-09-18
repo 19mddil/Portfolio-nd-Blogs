@@ -21,7 +21,7 @@
 				<section class = "col-md-11 one" style="background-color: white;color:black;padding: 3%">
 					<?= $output ?>
 					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
-					<p style="margin-left: 45%"><a href="#head"><i class="fas fa-chevron-up fa-5x"></i></a></p>
+					<p style="text-align: center;"><a href="#head"><i class="fas fa-chevron-up fa-5x"></i></a></p>
 				</section>
 				<aside class = "col-md-1 two" style="position:sticky; position: -webkit-sticky; top: 0;">
 					<h2 style="font-size: 2em;padding: .5%;">Diaries</h2>
