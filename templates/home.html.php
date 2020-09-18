@@ -1,10 +1,12 @@
 
-<section style="position:sticky;font-size: 1.2em; position: -webkit-sticky; top: 0;background-color: rgba(245, 245, 245, 0.75);letter-spacing: .2em;padding-left: 5px;  border-radius: 15px 50px 30px;"  
+<section style="position:sticky;font-size: 1.2em; position: -webkit-sticky; top: 0;background-color: rgba(245, 245, 245, 0.75);letter-spacing: .2em;padding-left: 5px; border: 1px solid black;"  
 	id="top">
-	<a href ="#preface" style="color: blue; text-decoration: underline;">Preface</a>&nbsp;
-	<a href ="#aboutme" style="color: blue; text-decoration: underline;">AboutMe</a>&nbsp;
-	<a href ="#certificate" style="color: blue; text-decoration: underline;">My-Certificates</a><br><br>
+		<!-- Want it on the right side -->
+		<a href ="#preface" style="color: blue; text-decoration: underline;">Preface</a>&nbsp;
+		<a href ="#aboutme" style="color: blue; text-decoration: underline;">AboutMe</a>&nbsp;
+		<a href ="#certificate" style="color: blue; text-decoration: underline;">My-Certificates</a>
 </section>
+<br>
 <article id="preface">
 	<h1>Preface</h1>
 	<p lang="bn">প্রোগ্রামিং এর জগৎে শেখার শেষ নাই। তাই এই শেখার রাস্তায় পুরানো টপিক ভুলারও শেষ নাই। তাই খুব ভালো হয় যা এক সময় খুব গুছিয়ে শিখেছি সেটা ওয়েব পেইজে লিখে রাখলে (৯০ এর HTML1 তৈরি করাই হয়েছিল সুন্দর সাইনটিফিক ডকুমেন্টেশন তৈরির নিয়তে, তাই ফায়দা কেনো লুটব না? )।
@@ -42,58 +44,58 @@
 		<h2>Python</h2>
 		<p>
 			<a href="https://coursera.org/share/bf3d61e8ef284eb4e0590bfcfa309709">
-				<img src ="images/pythonForEveryBody.png" width="440" height="310" title="Click image to load official Certificate Site. " alt="my python specialization certificate from university of michigan">
+				<img src ="images/pythonForEveryBody.png" width="90%" title="Click image to load official Certificate Site. " alt="my python specialization certificate from university of michigan">
 			</a>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/245425cf4adc6f38d61f0cf0048b7923">
-				<img src ="images/python1.png" width="440" height="310" title="Click image to load official Certificate Site." alt ="python specialization part one,python basics certificate">
+				<img src ="images/python1.png" width="45%"  title="Click image to load official Certificate Site." alt ="python specialization part one,python basics certificate">
 			</a>
 			<a href="https://coursera.org/share/a24ca53c9a4f1c1707dd021930781fb9">
-				<img src ="images/pydatastructure.png" width="440" height="310" title="Click image to load official Certificate Site." alt ="python specialization part two,python data structure certificate">
+				<img src ="images/pydatastructure.png" width="45%" title="Click image to load official Certificate Site." alt ="python specialization part two,python data structure certificate">
 			</a>
 			<a href="https://coursera.org/share/8a690f10f3cde3e3a10de5856754fe37">
-				<img src ="images/python_access_web.png" width="440" height="310" title="Click image to load official Certificate Site." alt ="python specialization part three,python to access web certificate">
+				<img src ="images/python_access_web.png" width="45%" title="Click image to load official Certificate Site." alt ="python specialization part three,python to access web certificate">
 			</a>
 			<a href="https://www.coursera.org/account/accomplishments/verify/JLW357VVL6GQ">
-				<img src ="images/database_python.png" width="440px" height="310" title="Click image to load official Certificate Stie." alt="python specialization part four,python database programming certificate"/>
+				<img src ="images/database_python.png" width="45%" title="Click image to load official Certificate Stie." alt="python specialization part four,python database programming certificate"/>
 			</a>
 			<a href="https://coursera.org/share/9c65661eace4c93203acdd5e4e6bbd9d">
-				<img src ="images/python5.png" width="440" height="310" title="Click image to load official Certificate Site." alt="python specialization part 5 final certificate">
+				<img src ="images/python5.png" width="45%" title="Click image to load official Certificate Site." alt="python specialization part 5 final certificate">
 			</a>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Git &amp; Github</h2>
 		<p>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/92e8c57cd1f87bd963a9ce838014709f">
-				<img src ="images/git-github.png" width="440" height="310" title="Click image to load official Certificate Site." alt="git and github version control certificate from Google.">
+				<img src ="images/git-github.png" width="90%" title="Click image to load official Certificate Site." alt="git and github version control certificate from Google.">
 			</a>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Responsive Web Desing</h2>
 		<p>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/c0c380738d1a1c1be4e2d83497175728">
-				<img src ="images/html5.png" width="440" height="310" title="Click image to load official Certificate Site." alt="Responsive web Desing specialization part one,html5 certificate">
+				<img src ="images/html5.png" width="45%" title="Click image to load official Certificate Site." alt="Responsive web Desing specialization part one,html5 certificate">
 			</a>
-			<hr style="border:1px solid blue">
+			<hr style="border:1px solid green">
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Django Framework</h2>
 		<p>
-		<hr style="border:1px solid blue">
+		<hr style="border:1px solid green">
 		<a href="https://coursera.org/share/69e1083e8274091d73513f99f8e052da"> 
-			<img src="images/django_and_webtechnology.png" width="440" height="310" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Django and web technology certificate">
+			<img src="images/django_and_webtechnology.png" width="45%" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Django and web technology certificate">
 		</a>
 		<a href="https://coursera.org/share/c8d53efa9ccb7fe5c1dfbe44de4b82bd">
-			<img src="images/buliding_web_applications_in_django.png" width="440" height="310" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Building Web Application in Django">
+			<img src="images/buliding_web_applications_in_django.png" width="45%" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Building Web Application in Django">
 		</a>
-		<hr style="border:1px solid blue">
+		<hr style="border:1px solid green">
 		</p>
 	</section>
 

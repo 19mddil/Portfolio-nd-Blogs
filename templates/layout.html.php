@@ -10,13 +10,13 @@
 		<link rel="icon" type="image/png" href="images/favicon.png" />
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
-	<body style="font-family: monospace;background-color: #f5f5f5;color:grey;font-size: 1.2em;font-weight: bold">
+	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
 		<header>
-			<h1 style="background-color:grey;font-size: 3em;color:white;padding:3%;">MD's Programmering World.<sub style="font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</sub></h1>
+			<h1 style="background-image: url('images/background.png');color:black;font-size: 270%;padding:3%;">MD's Programmering World.<sub style="font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</sub></h1>
 		</header>
 		<main class="container">
 			<div class = "row">
-				<section class = "col-md-11 one" style="background-color: white;padding: 3%">
+				<section class = "col-md-11 one" style="background-color: white;color:black;padding: 3%">
 					<?= $output ?>
 					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
 					<p style="margin-left: 45%"><a href="#preface"><i class="fas fa-chevron-up fa-5x"></i></a></p>
@@ -38,8 +38,9 @@
 				</aside>
 			</div>
 		</main>
-		<footer style="background-color: grey;color:white;padding: 3%">
-			<p >Contact Me: 
+		<footer style=" background-image: url('images/background.png');color:black;padding: 3%; ">
+			<section >
+			<h3>Contact Me:</h3>
 				<a href="https://github.com/19mddil">
 					<img src="https://github.githubassets.com/favicons/favicon.png" width="25px" height="25px" 
 					title="Github"/>
@@ -58,11 +59,13 @@
 				<a href="https://www.hackerrank.com/mddilshadul98">
 					<img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" width="25px" height="25px" title="Hackerrank"/>
 				</a>
-			</p>
+			
+			</section>
 			<hr>
 			<p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
 			<p>Or If you prefer Gmail: <a href="mailto:mddilshadul98@gmail.com">mddilshadul98@gmail.com</a></p>
-			<p>এমডির প্রোগ্রামিং জগৎ।<?php echo date('d-m-y') ?></p>
+			<h2 style="text-align: center;">এমডির প্রোগ্রামিং জগৎ</h2>
+			<h4 style="text-align: center;"><?php echo date('d-m-y') ?>(UTC)</h4>
 		</footer>
 	</body>
 </html>
