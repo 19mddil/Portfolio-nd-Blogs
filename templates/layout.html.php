@@ -8,11 +8,13 @@
 		<title> <?=$title?> </title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 		<link rel="icon" type="image/png" href="images/favicon.png" />
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
 		<header>
-			<h1 style="background-image: url('images/background.png');color:black;font-size: 270%;padding:3%;">MD's Programmering World.<sub style="font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</sub></h1>
+			<h1 style="text-align:center;background-image: url('images/background.png');color:black;font-family: 'Montserrat', sans-serif;font-size: 240%;padding:2%;">MD's Programmed World.</h1>
+			<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
 		</header>
 		<main class="container">
 			<div class = "row">
