@@ -13,7 +13,7 @@
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
 		<header id ="head">
-			<h1 style="text-align:center;background-image: url('images/background.png');color:black;font-family: 'Montserrat', sans-serif;font-size: 240%;padding:2%;">MD's Programmed World.</h1>
+			<h1 style="text-align:center;background-image: url('images/background.png');color:black;font-family: 'Montserrat', sans-serif;padding:2%;">MD's Programmed World.</h1>
 			<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
 		</header>
 		<main class="container">
