@@ -35,16 +35,16 @@
 		    Also I have some fun with Java creating a beatbox music software and some multitheading MVC console applications,in addition at a time I was working with algorithms(Graph,Greedy,Sorting,String etc),progrming paradigms(complete search,dynamic programming,devide and conqure etc),data structes(stack,queue,map,binary search tree,Disjoint Sets etc) for becoming a better programmer using better data structure to solve different problems with C/C++ and developped some desktop application with database management system for swing(java) and .NET(c#) applications. Currently I am learning about agile development &amp; lean startup methodologies and applied data science. I am also woking on two personal projects one for my portfolio&amp;blogs and another for my ecommerce website on my shared hosting server which will be completed in two months schedule from which ecommerce website will be available in github pages.My Goal is learn software product management &amp; agile development so that I do not write code that nobody wants.
 	</p>
 </article>
-<article id="certificate">
+<article id="certificate" >
 	<h1>Certificates</h1>
-	<hr>
-	<section>
+	<hr style="border:2px solid green">
+	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Python</h2>
 		<p>
 			<a href="https://coursera.org/share/bf3d61e8ef284eb4e0590bfcfa309709">
 				<img src ="images/pythonForEveryBody.png" width="440" height="310" title="Click image to load official Certificate Site. " alt="my python specialization certificate from university of michigan">
 			</a>
-			<hr>
+			<hr style="border:1px solid blue">
 			<a href="https://coursera.org/share/245425cf4adc6f38d61f0cf0048b7923">
 				<img src ="images/python1.png" width="440" height="310" title="Click image to load official Certificate Site." alt ="python specialization part one,python basics certificate">
 			</a>
@@ -60,34 +60,44 @@
 			<a href="https://coursera.org/share/9c65661eace4c93203acdd5e4e6bbd9d">
 				<img src ="images/python5.png" width="440" height="310" title="Click image to load official Certificate Site." alt="python specialization part 5 final certificate">
 			</a>
+			<hr style="border:1px solid blue">
 		</p>
 	</section>
-	<section>
+	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Git &amp; Github</h2>
-		<hr>
 		<p>
+			<hr style="border:1px solid blue">
 			<a href="https://coursera.org/share/92e8c57cd1f87bd963a9ce838014709f">
 				<img src ="images/git-github.png" width="440" height="310" title="Click image to load official Certificate Site." alt="git and github version control certificate from Google.">
 			</a>
+			<hr style="border:1px solid blue">
 		</p>
 	</section>
-	<section>
+	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Responsive Web Desing</h2>
-		<hr>
 		<p>
+			<hr style="border:1px solid blue">
 			<a href="https://coursera.org/share/c0c380738d1a1c1be4e2d83497175728">
 				<img src ="images/html5.png" width="440" height="310" title="Click image to load official Certificate Site." alt="Responsive web Desing specialization part one,html5 certificate">
 			</a>
+			<hr style="border:1px solid blue">
 		</p>
 	</section>
-	<section>
+	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 		<h2>Django Framework</h2>
-		<hr>
+		<p>
+		<hr style="border:1px solid blue">
 		<a href="https://coursera.org/share/69e1083e8274091d73513f99f8e052da"> 
 			<img src="images/django_and_webtechnology.png" width="440" height="310" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Django and web technology certificate">
 		</a>
-		<a href="#preface"><h1>Back to Top</h1></a>
+		<a href="https://coursera.org/share/c8d53efa9ccb7fe5c1dfbe44de4b82bd">
+			<img src="images/buliding_web_applications_in_django.png" width="440" height="310" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Building Web Application in Django">
+		</a>
+		<hr style="border:1px solid blue">
+		</p>
 	</section>
+
+
 </article>
 
 

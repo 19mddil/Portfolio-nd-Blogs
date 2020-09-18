@@ -8,6 +8,7 @@
 		<title> <?=$title?> </title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 		<link rel="icon" type="image/png" href="images/favicon.png" />
+		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:grey;font-size: 1.2em;font-weight: bold">
 		<header>
@@ -17,6 +18,8 @@
 			<div class = "row">
 				<section class = "col-md-11 one" style="background-color: white;padding: 3%">
 					<?= $output ?>
+					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
+					<p style="margin-left: 45%"><a href="#preface"><i class="fas fa-chevron-up fa-5x"></i></a></p>
 				</section>
 				<aside class = "col-md-1 two" style="position:sticky; position: -webkit-sticky; top: 0;">
 					<h1 style="font-size: 2em;padding: .5%;">Diaries</h1>
