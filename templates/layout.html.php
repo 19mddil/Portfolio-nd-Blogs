@@ -12,7 +12,7 @@
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
-		<header>
+		<header id ="head">
 			<h1 style="text-align:center;background-image: url('images/background.png');color:black;font-family: 'Montserrat', sans-serif;font-size: 240%;padding:2%;">MD's Programmed World.</h1>
 			<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
 		</header>
@@ -21,10 +21,10 @@
 				<section class = "col-md-11 one" style="background-color: white;color:black;padding: 3%">
 					<?= $output ?>
 					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
-					<p style="margin-left: 45%"><a href="#preface"><i class="fas fa-chevron-up fa-5x"></i></a></p>
+					<p style="margin-left: 45%"><a href="#head"><i class="fas fa-chevron-up fa-5x"></i></a></p>
 				</section>
 				<aside class = "col-md-1 two" style="position:sticky; position: -webkit-sticky; top: 0;">
-					<h1 style="font-size: 2em;padding: .5%;">Diaries</h1>
+					<h2 style="font-size: 2em;padding: .5%;">Diaries</h2>
 					<!-- Bug -->
 					<hr>
 					<nav style=" letter-spacing: .15em;">

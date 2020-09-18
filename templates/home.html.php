@@ -8,12 +8,12 @@
 </section>
 <br>
 <article id="preface">
-	<h1>Preface</h1>
+	<h2>Preface</h2>
 	<p lang="bn">প্রোগ্রামিং এর জগৎে শেখার শেষ নাই। তাই এই শেখার রাস্তায় পুরানো টপিক ভুলারও শেষ নাই। তাই খুব ভালো হয় যা এক সময় খুব গুছিয়ে শিখেছি সেটা ওয়েব পেইজে লিখে রাখলে (৯০ এর HTML1 তৈরি করাই হয়েছিল সুন্দর সাইনটিফিক ডকুমেন্টেশন তৈরির নিয়তে, তাই ফায়দা কেনো লুটব না? )।
 	</p>
 </article>
 <article id = "aboutme">
-	<h1>A brief about me</h1>
+	<h2>A brief about me</h2>
 	<p>Hi,I am software developer currently unemployed or without business:(.The deeper I dive into programming the more I discover new worlds which inspires me     to learn more and entreprenuerial notion guides my heart. My specialities are -
 		    <ul>
 		      	<li>Writing scripts for client or server using python.(socket connection in different ports mostly 80)</li>
@@ -38,10 +38,10 @@
 	</p>
 </article>
 <article id="certificate" >
-	<h1>Certificates</h1>
+	<h2>Certificates</h2>
 	<hr style="border:2px solid green">
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
-		<h2>Python</h2>
+		<h3>Python</h3>
 		<p>
 			<a href="https://coursera.org/share/bf3d61e8ef284eb4e0590bfcfa309709">
 				<img src ="images/pythonForEveryBody.png" width="90%" title="Click image to load official Certificate Site. " alt="my python specialization certificate from university of michigan">
@@ -66,7 +66,7 @@
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
-		<h2>Git &amp; Github</h2>
+		<h3>Git &amp; Github</h3>
 		<p>
 			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/92e8c57cd1f87bd963a9ce838014709f">
@@ -76,7 +76,7 @@
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
-		<h2>Responsive Web Desing</h2>
+		<h3>Responsive Web Desing</h3>
 		<p>
 			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/c0c380738d1a1c1be4e2d83497175728">
@@ -86,7 +86,7 @@
 		</p>
 	</section>
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
-		<h2>Django Framework</h2>
+		<h3>Django Framework</h3>
 		<p>
 		<hr style="border:1px solid green">
 		<a href="https://coursera.org/share/69e1083e8274091d73513f99f8e052da"> 
