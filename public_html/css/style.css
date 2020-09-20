@@ -1,6 +1,6 @@
 a:hover{
 	color:#98fb98 !important;
 }
-nav hr{
+nav hr{ /** all descendents **/
 	background-color: grey !important;
 }
