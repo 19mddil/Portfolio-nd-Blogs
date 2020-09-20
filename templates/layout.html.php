@@ -19,14 +19,22 @@
 		<main class="container">
 			<div class = "row">
 				<aside class = "col-md-2 one" style="padding: 0%;">
-					<details style="box-shadow: 2px 2px 7px black;background-color: black;" >
+					<details style="box-shadow: 2px 2px 7px black;background-color: black;" 
+						<?php 
+							require_once 'Mobile_Detect.php';
+							$detect = new Mobile_Detect;
+ 
+							// Any mobile device (phones or tablets).
+							if ( !$detect->isMobile() ) {
+ 								echo 'open';
+							}
+						?>
+					>
 					<summary style="">
-					<div >
 					<h1 style="font-weight:bold;font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;color: #c21e56;text-align: left; padding-left: 10px;"><i class="fas fa-bars"></i></h1>
-					</div>
 					</summary>
 					<!-- Bug -->
-					<nav style="font-weight: bold; text-align: left;padding-left: 5px;margin-right:3px;padding-right:3px;background-color: rgba(0, 0, 0, 0.3);box-shadow: 2px 2px 7px #98fb98;border-radius: 4px 4px 4px 4px;" >
+					<nav style="font-weight: bold; text-align: left;padding-left: 5px;margin-right:3px;padding-right:3px;box-shadow: 2px 2px 7px #98fb98;border-radius: 4px 4px 4px 4px;" >
 						<hr>
 						<a href="index.php" style=" color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Home</a><br><hr>
 						<a href="project.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>My Projects</a><hr>
@@ -36,7 +44,7 @@
 						<a href="software_product_management.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i></i>Software Product Management</a><hr>
 						<a href="applied_data_science.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i></i>Applied Data Science</a><hr>
 						<a href="installation_and_configuration.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;" ><i class="far fa-compass"></i>Installation and Configuration</a><hr>
-						<a href="responsive_web_design.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Resposive Web Design</a><hr>
+						<a href="responsive_web_design.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Resposive Web Design</a><br><br>
 					</nav>
 					</details>
 				</aside>
