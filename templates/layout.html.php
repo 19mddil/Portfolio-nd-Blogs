@@ -14,22 +14,19 @@
 		<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Sacramento&display=swap" rel="stylesheet">
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
-	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
-		<header id ="head">
-			<h1 style="text-align:center;background-image: url('images/background.png');color:black;color: #c21e56;font-family: 'Montserrat', sans-serif;padding:2%;">MD's Programmed World.</h1>
-			<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
-		</header>
+	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;border-radius: 4px 4px 4px 4px;">
+		
 		<main class="container">
 			<div class = "row">
-				<aside class = "col-md-2 one" style="background-color: rgba(0, 0, 0, 0.3);box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;padding: 0%;">
-					<details>
-					<summary style="background-image: url('images/background.png');">
+				<aside class = "col-md-2 one" style="padding: 0%;">
+					<details style="box-shadow: 2px 2px 7px black;background-color: black;" >
+					<summary style="">
 					<div >
-					<h2 style="font-weight:bold;font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;color: #c21e56;text-align: center;"><i class="fas fa-bars"></i>Diaries</h2>
+					<h1 style="font-weight:bold;font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;color: #c21e56;text-align: left; padding-left: 10px;"><i class="fas fa-bars"></i></h1>
 					</div>
 					</summary>
 					<!-- Bug -->
-					<nav style="font-weight: bold; text-align: left;padding-left: 5px;" >
+					<nav style="font-weight: bold; text-align: left;padding-left: 5px;margin-right:3px;padding-right:3px;background-color: rgba(0, 0, 0, 0.3);box-shadow: 2px 2px 7px #98fb98;border-radius: 4px 4px 4px 4px;" >
 						<hr>
 						<a href="index.php" style=" color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Home</a><br><hr>
 						<a href="project.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>My Projects</a><hr>
@@ -44,10 +41,16 @@
 					</details>
 				</aside>
 
-				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 3%">
+				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 0%">
+					<div id ="head" style="padding: 0%">
+						<h1 style="text-align:center;background-image: url('images/background.png');color:black;color: #c21e56;font-family: 'Montserrat', sans-serif;padding:2%;">MD's Programmed World<i class="fas fa-globe-americas" style="color: green"></i></h1>
+						<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
+					</div>
 					<h3 style="text-align: center;margin-bottom: 2%;"><q style="font-family: 'Caveat', cursive;
-font-family: 'Sacramento', cursive;  color: #c21e56;text-align: center;"><q>The man with higher purpose,hard to stray from path</q></h3>
+					font-family: 'Sacramento', cursive;  color: #c21e56;text-align: center;"><q>The man with higher purpose,hard to stray from path</q></h3>
+					<div style="margin-left: 10px;margin-right: 5px;">
 					<?= $output ?>
+					</div>
 					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
 					<p style="text-align: center;"><a href="#head"><i class="fas fa-chevron-up fa-5x"></i></a></p>
 				</section>

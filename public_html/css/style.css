@@ -1,4 +1,6 @@
 a:hover{
-	color:grey;
-	background-color: white;
+	color:#98fb98 !important;
+}
+nav hr{
+	background-color: grey !important;
 }
