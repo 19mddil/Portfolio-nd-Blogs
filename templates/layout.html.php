@@ -7,38 +7,51 @@
 		<meta name="description" content="This is my personal webpage where I save my projects advertisement for clients and my aquired djano &amp; php web framework,responsive web design,version control,devops,algorithm,agile_development,software poduct management knowledge and experience blogs.">
 		<title> <?=$title?> </title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
 		<link rel="icon" type="image/png" href="images/favicon.png" />
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Sacramento&display=swap" rel="stylesheet">
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 	</head>
 	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;">
 		<header id ="head">
-			<h1 style="text-align:center;background-image: url('images/background.png');color:black;font-family: 'Montserrat', sans-serif;padding:2%;">MD's Programmed World.</h1>
+			<h1 style="text-align:center;background-image: url('images/background.png');color:black;color: #c21e56;font-family: 'Montserrat', sans-serif;padding:2%;">MD's Programmed World.</h1>
 			<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">(Beta version;final realease dued to october 5th)</p>
 		</header>
 		<main class="container">
 			<div class = "row">
-				<section class = "col-md-11 one" style="background-color: white;color:black;padding: 3%">
+				<aside class = "col-md-2 one" style="background-color: rgba(0, 0, 0, 0.3);box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;padding: 0%;">
+					<details>
+					<summary style="background-image: url('images/background.png');">
+					<div >
+					<h2 style="font-weight:bold;font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;color: #c21e56;text-align: center;"><i class="fas fa-bars"></i>Diaries</h2>
+					</div>
+					</summary>
+					<!-- Bug -->
+					<nav style="font-weight: bold; text-align: left;padding-left: 5px;" >
+						<hr>
+						<a href="index.php" style=" color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Home</a><br><hr>
+						<a href="project.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>My Projects</a><hr>
+						<a href="django.php"style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Django</a><hr>
+						<a href="version_control.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Version Control</a><hr>
+						<a href="agile_development.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Agile Development</a><hr>
+						<a href="software_product_management.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i></i>Software Product Management</a><hr>
+						<a href="applied_data_science.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i></i>Applied Data Science</a><hr>
+						<a href="installation_and_configuration.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;" ><i class="far fa-compass"></i>Installation and Configuration</a><hr>
+						<a href="responsive_web_design.php" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><i class="far fa-compass"></i>Resposive Web Design</a><hr>
+					</nav>
+					</details>
+				</aside>
+
+				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 3%">
+					<h3 style="text-align: center;margin-bottom: 2%;"><q style="font-family: 'Caveat', cursive;
+font-family: 'Sacramento', cursive;  color: #c21e56;text-align: center;"><q>The man with higher purpose,hard to stray from path</q></h3>
 					<?= $output ?>
 					<hr style="color:red;"><hr style="color:red;border: 2px solid green">
 					<p style="text-align: center;"><a href="#head"><i class="fas fa-chevron-up fa-5x"></i></a></p>
 				</section>
-				<aside class = "col-md-1 two" style="position:sticky; position: -webkit-sticky; top: 0;">
-					<h2 style="font-size: 2em;padding: .5%;">Diaries</h2>
-					<!-- Bug -->
-					<hr>
-					<nav style=" letter-spacing: .15em;">
-						<a href="index.php" style=" text-decoration: underline;">Home</a><br><br>
-						<a href="project.php" style=" text-decoration: underline;">My Projects</a><br><br>
-						<a href="django.php"style=" text-decoration: underline;">Django</a><br><br>
-						<a href="version_control.php" style=" text-decoration: underline;">Version Control</a><br><br>
-						<a href="agile_development.php" style=" text-decoration: underline;">Agile Development</a><br><br>
-						<a href="software_product_management.php" style=" text-decoration: underline;">Software Product Management</a><br><br>
-						<a href="applied_data_science.php" style=" text-decoration: underline;">Applied Data Science</a><br><br>
-						<a href="installation_and_configuration.php" style=" text-decoration: underline;" >Installation and Configuration</a><br><br>
-						<a href="responsive_web_design.php" style=" text-decoration: underline;">Resposive Web Design</a><br><br>
-					</nav>
-				</aside>
+				
 			</div>
 		</main>
 		<footer style=" background-image: url('images/background.png');color:black;padding: 3%; ">
@@ -68,6 +81,7 @@
 			<p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
 			<p>Or If you prefer Gmail: <a href="mailto:mddilshadul98@gmail.com">mddilshadul98@gmail.com</a></p>
 			<h2 style="text-align: center;">এমডির প্রোগ্রামিং জগৎ</h2>
+			<h2 style="text-align: center;font-family: 'Caveat', cursive;">Hope and work makes a man never look down on thee inside out.</h2>
 			<h4 style="text-align: center;"><?php echo date('d-m-y') ?>(UTC)</h4>
 		</footer>
 	</body>

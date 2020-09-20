@@ -1,10 +1,12 @@
 
-<section style="position:sticky;font-size: 1.2em; position: -webkit-sticky; top: 0;background-color: rgba(245, 245, 245, 0.75);letter-spacing: .2em;padding-left: 5px; border: 1px solid black;"  
-	id="top">
+<section style="position:sticky;position: -webkit-sticky; top: 0;" id="top">
+		<p style="background-color: rgba(0, 0, 0, 0.4);padding:4px;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px">
 		<!-- Want it on the right side -->
-		<a href ="#preface" style="color: blue; text-decoration: underline;">Preface</a>&nbsp;
-		<a href ="#aboutme" style="color: blue; text-decoration: underline;">AboutMe</a>&nbsp;
-		<a href ="#certificate" style="color: blue; text-decoration: underline;">My-Certificates</a>
+		<i class="far fa-compass"></i>
+		<a href ="#preface" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;"><strong>Preface</strong></a>&nbsp;
+		<a href ="#aboutme" style="color: white; text-decoration: underline;font-size: 14px;text-shadow: 1px 1px 2px #111111;"><strong>AboutMe</strong></a>&nbsp;
+		<a href ="#certificate" style="color: white; text-decoration: underline;font-size: 14px;text-shadow: 1px 1px 2px #111111;"><strong>My-Certificates</strong></a>
+		</p>
 </section>
 <br>
 <article id="preface">
