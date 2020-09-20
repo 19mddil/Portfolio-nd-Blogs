@@ -19,17 +19,27 @@
 		<main class="container">
 			<div class = "row">
 				<aside class = "col-md-2 one" style="padding: 0%;">
-					<details style="box-shadow: 2px 2px 7px black;background-color: black;" 
-						<?php 
-							require_once 'Mobile_Detect.php';
-							$detect = new Mobile_Detect;
- 
-							// Any mobile device (phones or tablets).
-							if ( !$detect->isMobile() ) {
- 								echo 'open';
-							}
-						?>
-					>
+					<script type="text/javascript">
+						(function() {
+				  			window.onresize = displayWindowSize;
+				  			window.onload = displayWindowSize;
+
+				  			function displayWindowSize() {
+					    		let myWidth = window.innerWidth;
+					    		let myHeight = window.innerHeight;
+					    		// your size calculation code here
+								var b = document.querySelector("details");
+					    		if(myWidth <=750){
+									b.removeAttribute("open");
+					    		}
+					    		else{
+					    			b.setAttribute("open", "");
+					    		}
+
+				  			};
+						})();
+					</script>
+					<details style="box-shadow: 2px 2px 7px black;background-color: black;" >
 					<summary style="">
 					<h1 style="font-weight:bold;font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;color: #c21e56;text-align: left; padding-left: 10px;"><i class="fas fa-bars"></i></h1>
 					</summary>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+</head>
+<body>
+	<script type="text/javascript">
+		(function() {
+  			window.onresize = displayWindowSize;
+  			window.onload = displayWindowSize;
+
+  			function displayWindowSize() {
+	    		let myWidth = window.innerWidth;
+	    		let myHeight = window.innerHeight;
+	    		// your size calculation code here
+				var b = document.querySelector("details");
+	    		if(myWidth <=750){
+					b.removeAttribute("open");
+	    		}
+	    		else{
+	    			b.setAttribute("open", "");
+	    		}
+
+  			};
+		})();
+	</script>
+	<details>
+		<p>ddddd</p>
+		<summary>jdljfl lasdjfla</summary>
+	</details>
+
+</body>
+</html>
