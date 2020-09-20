@@ -48,7 +48,7 @@
 				  			};
 						})();
 					</script>
-					<details style="box-shadow: 2px 2px 7px black;background-color: black;" >
+					<details id ="head" style="box-shadow: 2px 2px 7px black;background-color: black;" >
 
 						<summary>
 
@@ -111,7 +111,7 @@
 								style="color: white;
 								text-decoration: underline;
 								font-size: 14px;
-								text-shadow: 1px 1px 2px #111111;"
+								text-shadow: 1px 1px 2px #111111;">
 								<i class="far fa-compass"></i>Applied Data Science
 							</a>
 							<hr>
@@ -138,7 +138,7 @@
 
 				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 0%">
 
-					<header id ="head" style="padding: 0%">
+					<header style="padding: 0%">
 
 						<h1 
 							style="text-align:center;
