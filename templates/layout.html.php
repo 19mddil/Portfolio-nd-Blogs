@@ -146,10 +146,10 @@
 							color: #c21e56;
 							font-family: 'Montserrat', sans-serif;padding:2%;">
 							MD's Programmed World<i class="fas fa-globe-americas" style="color: green"></i>
+							<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">
+								(Beta version;final realease dued to october 5th)
+							</p>
 						</h1>
-						<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">
-							(Beta version;final realease dued to october 5th)
-						</p>
 
 					</header>
 					<div style="margin-left: 10px;margin-right: 5px;">
