@@ -152,11 +152,6 @@
 						</p>
 
 					</header>
-					<h3 style="text-align: center;margin-bottom: 2%;">
-						<q style="font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;  color: #c21e56;text-align: center;">
-							The man with higher purpose,hard to stray from path
-						</q>
-					</h3>
 					<div style="margin-left: 10px;margin-right: 5px;">
 						<?= $output ?>
 					</div>
