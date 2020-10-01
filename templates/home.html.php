@@ -37,13 +37,29 @@
 
 	<h2>A brief about me</h2>
 	<p>
-		Hi,I am software developer currently unemployed or without business:(.The deeper I dive into programming the more I discover new worlds which inspires me     to learn more and entreprenuerial notion guides my heart. My specialities are -
+		Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
 		    <ul>
 		      	<li>Writing scripts for client or server using python.(socket connection in different ports mostly 80)</li>
 		      	<li>Read json or xml data from REST API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.</li>
 		      	<li>Writing DRY and Clean Code(Encountered while scripting php in html pages)</li>
 		      	<li>Version Controling(branching,rebasing,forking,pull request,issues on github from cmd and git)
 		      	<li>Object oriented and Multithread Programming(Java)</li>
+		      	<li> Object Oriented Modeling Software Design and Multithread Programming(Java)</li>
+		      	<ul>
+				    <li> Astraction(<a href="https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card">CRC</a>,<a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">UML</a>)</li>
+				    <li>Ecapsulation</li>
+				    <li>Decomposition</li>
+				    <ul>
+				        <li> Association </li>
+				        <li> Aggregation </li>
+				        <li> Composition </li>
+				    </ul>
+				    <li> Generalization</li>
+				    <ul>
+				        <li> Inheritence</li>
+				        <li>Interface</li>
+				    </ul>
+				</ul>
 		      	<li>Database Administrative works:-
 		        	<ul>
 		          		<li>Data Modeling(ER),Joining Tables,One to Many/Many to Many Relations,</li>
