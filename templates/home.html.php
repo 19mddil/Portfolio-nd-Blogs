@@ -19,8 +19,15 @@
 <section>
 
 	<h3 style="text-align: center;margin-bottom: 2%;">
-		<q style="font-family: 'Caveat', cursive; font-family: 'Sacramento', cursive;  color: #c21e56;text-align: center;">
-			The man with higher purpose,hard to stray from path
+		<q style="font-family: 'Caveat', cursive; font-family: 'Caveat', cursive;
+  color: black;text-align: center;">
+  Allah disdains not to use the similitude of things lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: 'What means God by this similitude?' By it He causes many to stray and many He leads into the right path but He causes not to stray except those who forsake.
+
+  <!--
+			আল্লাহ তুচ্ছ ও উচ্চতর জিনিসের সাম্যতা ব্যবহার করতে অপছন্দ করেন।যারা বিশ্বাস স্থাপন করে তারা জানে যে এটি তাদের পালনকর্তার পক্ষ থেকে সত্য;কিন্তু
+যারা বিশ্বাসকে প্রত্যাখ্যান করে তারা বলে:'সৃষ্টিকর্তার এই সাম্যতার অর্থ কী?'এর দ্বারা তিনি অনেককে বিপথগামী করেন এবং অনেককে তিনি সঠিক পথে নিয়ে যান,
+তবে তিনি পথ ত্যাগকারী ব্যতীত পথভ্রষ্ট করেন না
+-->
 		</q>
 	</h3>
 	

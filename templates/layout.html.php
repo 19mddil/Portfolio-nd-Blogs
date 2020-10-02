@@ -17,6 +17,7 @@
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Sacramento&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Galada&display=swap" rel="stylesheet">
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 
 	</head>
