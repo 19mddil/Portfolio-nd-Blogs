@@ -43,11 +43,11 @@
 <article id = "aboutme">
 
 	<h2>A brief about me</h2>
-	<details open>
+	<details open style="background-color: rgba(137, 209, 254, 0.4);padding:2%;margin:1%;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;" >
 
 		<summary>📈 My GitHub Stats</summary>
 		<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" />
-		
+
 	</details>  
 	<p>
 		Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
