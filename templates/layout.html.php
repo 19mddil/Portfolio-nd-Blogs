@@ -148,7 +148,7 @@
 							font-family: 'Montserrat', sans-serif;padding:2%;">
 							MD's Programmed World<i class="fas fa-globe-americas" style="color: green"></i>
 							<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">
-								(Beta version;final realease dued to october 5th)
+								(not final look,updated version is dued to the extend to november)
 							</p>
 						</h1>
 
