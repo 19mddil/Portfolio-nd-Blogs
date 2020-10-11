@@ -43,10 +43,10 @@
 <article id = "aboutme">
 
 	<h2>A brief about me</h2>
-	<details open style="background-color: rgba(137, 209, 254, 0.4);padding:2%;margin:1%;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;" >
+	<details open style="background-color: rgba(137, 209, 254, 0.4);padding:2%;margin:1%;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;" width="90%">
 
 		<summary>📈 My GitHub Stats</summary>
-		<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" />
+		<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" width="98%" />
 
 	</details>  
 	<p>
