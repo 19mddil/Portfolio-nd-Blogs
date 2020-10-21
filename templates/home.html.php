@@ -1,12 +1,11 @@
 
 <section style="position:sticky;position: -webkit-sticky; top: 0;" id="top">
 
-		<p style="background-color: rgba(0, 0, 0, 0.4);padding:4px;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px">
+		<p style="background-color: rgba(12, 105, 145, 0.4);padding:4px;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px">
 		<!-- Want it on the right side -->
 			<i class="far fa-compass"></i>
 			<a href ="#preface" style="color: white; text-decoration: underline; font-size: 14px;text-shadow: 1px 1px 2px #111111;">
-				<strong>Preface</strong>
-			</a>&nbsp;
+				<strong>Preface</strong></a>&nbsp;
 			<a href ="#aboutme" style="color: white; text-decoration: underline;font-size: 14px;text-shadow: 1px 1px 2px #111111;">
 				<strong>AboutMe</strong></a>&nbsp;
 			<a href ="#certificate" style="color: white; text-decoration: underline;font-size: 14px;text-shadow: 1px 1px 2px #111111;">
@@ -19,8 +18,8 @@
 <section>
 
 	<h3 style="text-align: center;margin-bottom: 2%;">
-		<q style="font-family: 'Caveat', cursive; font-family: 'Caveat', cursive;
-  color: black;text-align: center;">
+		<q style="font-family: 'Cinzel', serif;
+  color: black;text-align: center;font-size: 16px;">
   Allah disdains not to use the similitude of things lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: 'What means God by this similitude?' By it He causes many to stray and many He leads into the right path but He causes not to stray except those who forsake.
 
   <!--
@@ -34,7 +33,7 @@
 </section>
 <article id="preface">
 
-	<h2>Preface</h2>
+	<h2 style="font-variant: small-caps;color: #0c6991;">Preface</h2>
 	<p lang="bn">
 		Hi,<strong style="color: green">Welcome to my Webpage.</strong>প্রোগ্রামিং এর জগৎে শেখার শেষ নাই। তাই এই শেখার রাস্তায় পুরানো টপিক ভুলারও শেষ নাই। তাই খুব ভালো হয় যা এক সময় খুব গুছিয়ে শিখেছি সেটা ওয়েব পেইজে লিখে রাখলে (৯০ এর HTML1 তৈরি করাই হয়েছিল সুন্দর সাইনটিফিক ডকুমেন্টেশন তৈরির নিয়তে, তাই ফায়দা কেনো লুটব না? )।
 	</p>
@@ -42,14 +41,9 @@
 </article>
 <article id = "aboutme">
 
-	<h2>A brief about me</h2>
-	<details open style="background-color: rgba(137, 209, 254, 0.4);padding:2%;margin:1%;box-shadow: 2px 2px 7px black;border-radius: 4px 4px 4px 4px;" width="90%">
-
-		<summary>📈 My GitHub Stats</summary>
-		<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" width="98%" />
-
-	</details>  
+	<h2 style="font-variant: small-caps;color: #0c6991;">A brief about me</h2>
 	<p>
+		<img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" align="right" width="60%" />
 		Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
 		    <ul>
 		      	<li>Writing scripts for client or server using python.(socket connection in different ports mostly 80)</li>
@@ -92,7 +86,7 @@
 </article>
 <article id="certificate" >
 
-	<h2>Certificates</h2>
+	<h2 style="font-variant: small-caps;color: #0c6991;">Certificates</h2>
 	<hr style="border:2px solid green">
 	<section style="border: 1px solid grey; padding: 2%;margin-bottom: 1%;">
 

@@ -18,10 +18,11 @@
 		<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Sacramento&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Galada&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap" rel="stylesheet">
 		<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 
 	</head>
-	<body style="font-family: monospace;background-color: #f5f5f5;color:black;font-size: 1.2em;border-radius: 4px 4px 4px 4px;">
+	<body style="font-family: sans-serif;background-color: #f5f5f5;color:black;font-size: 16px;border-radius: 4px 4px 4px 4px;">
 
 		<main class="container">
 
@@ -55,7 +56,7 @@
 
 							<h1 style="font-weight:bold;font-family: 'Caveat', cursive; 
 								font-family: 'Sacramento', cursive;
-								color: #c21e56;
+								color: #0c6991;
 								text-align: left; 
 								padding-left: 10px;">
 								<i class="fas fa-bars"></i>
@@ -144,12 +145,9 @@
 						<h1 
 							style="text-align:center;
 							background-image: url('images/background.png');
-							color: #c21e56;
+							color: #0c6991;
 							font-family: 'Montserrat', sans-serif;padding:2%;">
-							MD's Programmed World<i class="fas fa-globe-americas" style="color: green"></i>
-							<p style="text-align:center;font-family:monospace;font-size:.4em;color:red">
-								(not final look,updated version is dued to the extend to november)
-							</p>
+							MD's Programmed World <i class="fas fa-globe-americas" style="color: #0c6991"></i>
 						</h1>
 
 					</header>
@@ -169,7 +167,7 @@
 
 			<section >
 
-				<h3>Contact Me:</h3>
+				<h3>My Links:</h3>
 					<a href="https://github.com/19mddil">
 						<img src="https://github.githubassets.com/favicons/favicon.png" width="25px" height="25px" title="Github"/>
 					</a>&nbsp;&nbsp;
