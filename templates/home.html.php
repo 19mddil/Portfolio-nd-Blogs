@@ -43,11 +43,12 @@
 
 	<h2 style="font-variant: small-caps;color: #0c6991;">A brief about me</h2>
 	<p>
+		
 		<img src="https://github-readme-stats.vercel.app/api?username=19mddil&show_icons=true&theme=gotham" alt="Md.Dilshadul Islam" align="right" width="60%" />
 		Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
 		    <ul>
 		      	<li>Writing scripts for client or server using python.(socket connection in different ports mostly 80)</li>
-		      	<li>Read json or xml data from REST API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.</li>
+		      	<li>Read json or xml data from REST <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19mddil&layout=compact&theme=gotham" alt="mostly used language" align="right" width="40%" >API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.</li>
 		      	<li>Writing DRY and Clean Code(Encountered while scripting php in html pages)</li>
 		      	<li>Version Controling(branching,rebasing,forking,pull request,issues on github from cmd and git)
 		      	<li>Object oriented and Multithread Programming(Java)</li>
