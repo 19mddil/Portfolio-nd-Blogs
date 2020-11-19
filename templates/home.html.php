@@ -151,6 +151,9 @@
 		<a href="https://coursera.org/share/c8d53efa9ccb7fe5c1dfbe44de4b82bd">
 			<img src="images/buliding_web_applications_in_django.png" width="45%" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Building Web Application in Django">
 		</a>
+		<a href="https://coursera.org/share/cb6cfe19ef3947519b3a8a6ba5fa303f">
+			<img src="images/django3.png" width="45%" title="Click image to load official Certificate Site." alt = "Django web Framework specialization part one,Building Web Application in Django">
+		</a>
 		<hr style="border:1px solid green">
 		</p>
 		
