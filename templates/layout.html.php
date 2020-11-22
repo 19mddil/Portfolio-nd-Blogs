@@ -50,7 +50,7 @@
 				  			};
 						})();
 					</script>
-					<details id ="head" style="box-shadow: 2px 2px 7px black;background-color: black;" >
+					<details id ="head" style="position:sticky;position: -webkit-sticky; top: 0;box-shadow: 2px 2px 7px black;background-color: black;" >
 
 						<summary>
 
