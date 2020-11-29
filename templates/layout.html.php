@@ -165,7 +165,7 @@
 		</main>
 		<footer style=" background-image: url('images/background.png');color:black;padding: 3%; ">
 
-			<section >
+			<section id = "Contact_Info">
 
 				<h3>My Links:</h3>
 					<a href="https://github.com/19mddil">
