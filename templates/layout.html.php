@@ -156,7 +156,7 @@
 					</div>
 					<hr style="color:red;">
 					<hr style="color:red;border: 2px solid green">
-					<p style="text-align: center;"> <a href="#certificates"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
+					<p style="text-align: center;"> <a href="#certificate"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
 
 				</section>
 				
