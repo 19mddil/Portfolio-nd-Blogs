@@ -4,3 +4,6 @@ a:hover{
 nav hr{ /** all descendents **/
 	background-color: grey !important;
 }
+section p a:hover{
+	width: 80%;
+}

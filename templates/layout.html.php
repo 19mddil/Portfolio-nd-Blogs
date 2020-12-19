@@ -156,7 +156,7 @@
 					</div>
 					<hr style="color:red;">
 					<hr style="color:red;border: 2px solid green">
-					<p style="text-align: center;"> <a href="#head"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
+					<p style="text-align: center;"> <a href="#certificates"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
 
 				</section>
 				
@@ -177,7 +177,7 @@
 					<a href="https://www.facebook.com/19womanizer">
 						<img src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico" width="25px" height="25px" title="Facebook"/>
 					</a>&nbsp;&nbsp;
-					<a href="https://www.linkedin.com/in/md-dilshadul-01b721199/">
+					<a href="https://www.linkedin.com/in/md-dilshadul-islam-01b721199/">
 						<img src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" width="25px" height="25px" title="LinkedIn"/>
 					</a>&nbsp;&nbsp;
 					<a href="https://www.stopstalk.com/user/profile/19mddilshad">
