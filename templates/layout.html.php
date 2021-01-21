@@ -24,10 +24,40 @@
 	</head>
 	<body style="font-family: sans-serif;background-color: #f5f5f5;color:black;font-size: 16px;border-radius: 4px 4px 4px 4px;">
 
-		<main class="container">
+		<main class="container-fluid">
 
 			<div class = "row">
 
+				
+
+				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 0%">
+
+					<header style="padding: 0%">
+						<!-- 
+						 <div class="jumbotron jumbotron-fluid">
+      						<div class="container-fluid">
+        						<h1 class="display-3">MD's Programmed World</h1>
+        						<p class="lead">Programming blog and portfolio.</p>
+      						</div>
+    					</div >
+    					-->
+						<h1 
+							style="text-align:center;
+							background-image: url('images/background.png');
+							color: #0c6991;
+							font-family: 'Montserrat', sans-serif;padding:2%;">
+							MD's Programmed World <i class="fas fa-globe-americas" style="color: #0c6991"></i>
+						</h1>
+
+					</header>
+					<div style="margin-left: 10px;margin-right: 5px;">
+						<?= $output ?>
+					</div>
+					<hr style="color:red;">
+					<hr style="color:red;border: 2px solid green">
+					<p style="text-align: center;"> <a href="#certificate"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
+
+				</section>
 				<aside class = "col-md-2 one" style="padding: 0%;">
 
 					<script type="text/javascript">
@@ -137,28 +167,6 @@
 					</details>
 
 				</aside>
-
-				<section class = "col-md-10 two" style="background-color: white;color:black;padding: 0%">
-
-					<header style="padding: 0%">
-
-						<h1 
-							style="text-align:center;
-							background-image: url('images/background.png');
-							color: #0c6991;
-							font-family: 'Montserrat', sans-serif;padding:2%;">
-							MD's Programmed World <i class="fas fa-globe-americas" style="color: #0c6991"></i>
-						</h1>
-
-					</header>
-					<div style="margin-left: 10px;margin-right: 5px;">
-						<?= $output ?>
-					</div>
-					<hr style="color:red;">
-					<hr style="color:red;border: 2px solid green">
-					<p style="text-align: center;"> <a href="#certificate"> <i class="fas fa-chevron-up fa-5x"></i> </a> </p>
-
-				</section>
 				
 			</div>
 

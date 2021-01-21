@@ -46,14 +46,21 @@
 
 		<h3>Software Desing and Architecture</h3>
 		<p>
-			<!--
-			<a href="https://coursera.org/share/0d9059640bd6f95e2a21cd8544afbd6c">
-				<img src ="images/d.png" width="90%" title="Click image to load official Certificate Site. " alt="my django specialization certificate from university of michigan">
+			<a href="https://coursera.org/share/d378b352907bee0fac192625e227aa44">
+				<img src ="images/special.png" width="90%" title="Click image to load official Certificate Site. " alt="my software design and architecture specialization certificate from university of alberta">
 			</a>
-			-->
 			<hr style="border:1px solid green">
 			<a href="https://coursera.org/share/dfb0ea79310507b44500d55122e4c139"> 
 				<img src="images/oop.png" width="45%" title="Click image to load official Certificate Site." alt = "Software Desing and Architecture specialization part one, object oriented design.">
+			</a>
+			<a href="https://coursera.org/share/4e164b58d8c58711b2f9e55b5f0ceab9"> 
+				<img src="images/s1.png" width="45%" title="Click image to load official Certificate Site." alt = "Software Desing and Architecture specialization part two, design pattern.">
+			</a>
+			<a href="https://coursera.org/share/3d0275bb5a14103e8ff3c85eaf257833"> 
+				<img src="images/s2.png" width="45%" title="Click image to load official Certificate Site." alt = "Software Desing and Architecture specialization part three, software architecture.">
+			</a>
+			<a href="https://coursera.org/share/733ef46f3dba60a06ce13d148c7cd256"> 
+				<img src="images/s3.png" width="45%" title="Click image to load official Certificate Site." alt = "Software Desing and Architecture specialization part four, service oriented architecture.">
 			</a>
 			<hr style="border:1px solid green">
 		</p>

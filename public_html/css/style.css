@@ -4,6 +4,7 @@ a:hover{
 nav hr{ /** all descendents **/
 	background-color: grey !important;
 }
-section p a:hover{
-	width: 80%;
+a img:hover{
+    transform: scale(1.2);
+    transition: transform .2s; /* Animation */
 }
